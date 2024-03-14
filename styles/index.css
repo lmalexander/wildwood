@@ -1,7 +1,5 @@
-body {
-    background-color: black;
-}
 
-#header-text {
-    color: green;
+.dash-btn {
+    font-size: 28px;
+    background-color: #de552b;
 }
