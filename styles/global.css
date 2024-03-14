@@ -1,0 +1,21 @@
+body {
+    background-color: #090A0C;
+}
+
+#header-text {
+    color: #80A251;
+    font-size: 30px;
+}
+
+.header-link {
+    color: #73b8f8;
+    font-size: 30px;
+}
+
+.nav-tabs-active-color {
+    background-color: antiquewhite;
+}
+
+.footer-nav {
+    margin-top: 50px;
+}
