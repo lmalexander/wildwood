@@ -6,3 +6,14 @@
     border: none;
     
 }
+
+.dash-panel {
+    background-color: #cabdbb;
+    margin-top: 20px;
+}
+
+#display-roll {
+    font-size: 50px;
+    font-family: Naej;
+    color: #80a251;
+}
