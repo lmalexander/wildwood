@@ -9,3 +9,28 @@ p {
 .proj-stmt-container {
     height: 400px;
 }
+
+.proj-stmt-accordion {
+    background-color: black;
+}
+
+.proj-stmt-accordion-button {
+    background-color: black;
+}
+
+.accordion-button {
+    background-color: black;
+    outline: none;
+}
+
+.proj-stmt-accordion-header {
+    background-color: black;
+}
+
+.proj-stmt-accordion-header-text {
+    color: crimson;
+}
+
+.proj-stmt-quote {
+    background-color: black;
+}
