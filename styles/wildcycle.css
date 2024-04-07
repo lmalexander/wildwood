@@ -1,0 +1,69 @@
+h2 {
+    color: orange;
+}
+
+.ref-link {
+    text-decoration: none;
+    color: green;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+.proj-stmt-container {
+    height: 400px;
+}
+
+.proj-stmt-accordion {
+    background-color: black;
+}
+
+.proj-stmt-accordion-button {
+    background-color: black;
+}
+
+.accordion-button {
+    background-color: black;
+    outline: none;
+}
+
+.proj-stmt-accordion-header {
+    background-color: black;
+}
+
+.proj-stmt-accordion-header-text {
+    color: crimson;
+}
+
+.proj-stmt-quote {
+    background-color: black;
+}
+
+.citation-popover {
+    background-color: black;
+    color: white;
+    font-size: 10px;
+  }
+
+.citation-popover-text {
+    color: white;
+    font-size: 12px;
+}
+
+  .citation-btn {
+  font-size: 16px;
+  background-color: black;
+  color: green;
+  padding: 0px;
+  margin-left: -4px;
+  margin-right: 5px;
+  text-align: left;
+  vertical-align: top;
+  cursor: pointer;
+  width: 3px;
+  height: 1px;
+
+  
+  }
